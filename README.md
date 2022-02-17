@@ -89,7 +89,7 @@
   <tr>
     <td align="center" width="96"> 
       <a href="#tech" >
-        <img src="./blob/images/commons-logo.png" width="48" height="48" alt="Apache Commons" />
+        <img src="./blob/images/apache.png" width="48" height="48" alt="Apache Commons" />
       </a>
       <br>Apache Commons
     </td>
