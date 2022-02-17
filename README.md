@@ -1,5 +1,5 @@
-<h1 align="left" id="macropower-title">:wave: Hi there! I'm Mayur Prajapati</h1>
-<h3 align="left">I am a Versatilist, Passionately Curious & Keen Learner dev, love solving problems & building projects</h3>
+<h1 align="left" id="macropower-title">Mayur Prajapati</h1>
+<h3 align="left">He is a Versatilist, Passionately Curious & Keen Learner dev, loves solving problems & building projects</h3>
 
 <p align="left">
   <a href="https://github.com/mayurprajapati/mayurprajapati">
@@ -16,19 +16,19 @@
   </a>
 </p>
 
-- :office: &nbsp;I'm currently working at **[Briq]** as an Automation Engineer
-- :seedling: &nbsp;I’m currently learning **DSA** and **Dynamic Programming**
+- :office: &nbsp;He is currently working at **[Briq]** as an Automation Engineer
+- :seedling: &nbsp;Adding **DSA** and **Dynamic Programming** to his skills
 - :books: &nbsp;Reading **Homo Sapiens**, **The Internet of Money**
-- :speech_balloon: &nbsp;I like to talk about **Our Existence**, **Product Ideas** and **New Technology**
-- :mailbox: &nbsp;Get this conversation extended on my **[E-mail](mailto:mayur@engineer.com)**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :speech_balloon: &nbsp;Likes to talk about **Life**, **Product Ideas** and **New Technology**
+- :mailbox: &nbsp;You can catch him on **[E-mail](mailto:mayur@engineer.com)**
+- :computer: &nbsp;Or connect on **[LinkedIn]**
 
 <br>
 
 <hr>
 <h2 align="left" id="tech">Favorite Tech</h2>
 
-> Tools, languages, and other things that I like to work with.
+> Tools, languages, and other things that he likes to work with.
 <table>
   <tr>
     <td align="center" width="96">
