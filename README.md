@@ -95,7 +95,7 @@
     </td>
     <td align="center" width="96">
       <a href="#tech" >
-        <img src="./blob/images/kotlin.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="./blob/images/kotlin.png" width="48" height="48" alt="Kotlin" />
       </a>
       <br>Kotlin
     </td>
