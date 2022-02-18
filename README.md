@@ -142,7 +142,7 @@
       <br>Gradle
     </td>
     </tr>
-    <tr>
+    <tr height="96">
       <td align="center" width="96">
         <a href="#tech" >
           <img src="./blob/images/maven.svg" width="48" height="20" alt="Maven" />
