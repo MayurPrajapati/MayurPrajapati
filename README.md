@@ -11,7 +11,7 @@
   <a href="https://github.com/mayurprajapati?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/mayurprajapati?color=green&logo=github">
   </a>
-  <a href="	https://medium.com/@mayurengineer">
+  <a href="https://medium.com/@mayurengineer">
     <img alt="LinkedIn" src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white">
   </a>
 </p>
