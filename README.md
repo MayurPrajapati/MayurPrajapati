@@ -45,7 +45,7 @@
     </td>
     <td align="center" width="96">
       <a href="#tech">
-        <img src="./blob/images/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="./blob/images/python.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
@@ -98,6 +98,53 @@
         <img src="./blob/images/kotlin.png" width="48" height="48" alt="Kotlin" />
       </a>
       <br>Kotlin
+    </td>
+    <td align="center" width="96">
+      <a href="#tech" >
+        <img src="./blob/images/git.png" width="48" height="48" alt="Git SCM" />
+      </a>
+      <br>Git SCM
+    </td>
+    <td align="center" width="96">
+      <a href="#tech" >
+        <img src="./blob/images/gitlab.png" width="48" height="48" alt="GitLab" />
+      </a>
+      <br>GitLab
+    </td>
+    <td align="center" width="96">
+      <a href="#tech" >
+        <img src="./blob/images/eclipse.svg" width="48" height="48" alt="Eclipse IDE" />
+      </a>
+      <br>Eclipse IDE
+    </td>
+    <td align="center" width="96">
+      <a href="#tech" >
+        <img src="./blob/images/android.svg" width="48" height="48" alt="Android" />
+      </a>
+      <br>Android
+    </td>
+    <td align="center" width="96">
+      <a href="#tech" >
+        <img src="./blob/images/nodejs.svg" width="48" height="48" alt="NodeJS" />
+      </a>
+      <br>NodeJS
+    </td>
+    <td align="center" width="96">
+      <a href="#tech" >
+        <img src="./blob/images/vscode.png" width="48" height="48" alt="VS Code" />
+      </a>
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <a href="#tech" >
+        <img src="./blob/images/gradle.svg" width="48" height="48" alt="Gradle" />
+      </a>
+      <br>Gradle
+    </td><td align="center" width="96">
+      <a href="#tech" >
+        <img src="./blob/images/maven.svg" width="48" height="20" alt="Maven" />
+      </a>
+      <br>Maven
     </td>
 </table>
 <hr>
