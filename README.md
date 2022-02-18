@@ -153,6 +153,19 @@
 </table>
 <hr>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <img align="left" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurprajapati&hide=dart,Objective-C,Objective-C%2b%2b&layout=compact" alt="Most used languages" />
+      <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=mayurprajapati" alt="Contributions"/>
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=mayurprajapati&theme=react-dark&bg_color=20232a&hide_border=true" alt="Activity" width="100%"/>
+</p>
+
 
 [Briq]: https://br.iq "Briq"
 [linkedin]: https://www.linkedin.com/in/mayurengineer "Mayur Prajapati LinkedIn"
