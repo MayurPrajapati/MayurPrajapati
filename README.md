@@ -1,5 +1,5 @@
 <h1 align="left" id="macropower-title">Mayur Prajapati</h1>
-<h3 align="left">He is a Versatilist, Passionately Curious & Keen Learner dev, loves solving problems & building projects</h3>
+<h3 align="left">Versatilist, Passionately Curious & Keen Learner, loves solving problems & building projects</h3>
 
 <p align="left">
   <a href="https://github.com/mayurprajapati/mayurprajapati">
@@ -20,7 +20,7 @@
 - :seedling: &nbsp;Adding **DSA** and **Dynamic Programming** to his skills
 - :books: &nbsp;Reading **Homo Sapiens**, **The Internet of Money**
 - :speech_balloon: &nbsp;Likes to talk about **Life**, **Product Ideas** and **New Technology**
-- :mailbox: &nbsp;You can catch him on **[E-mail](mailto:mayur@engineer.com)**
+- :mailbox: &nbsp;Get in touch **[mayur@engineer.com](mailto:mayur@engineer.com)**
 - :computer: &nbsp;Or connect on **[LinkedIn]**
 
 <br>
@@ -163,7 +163,9 @@
   </div>
   <br><br><br><br><br><br><br><br><br>
   <br>
+   <div align=center>
   <img src="https://activity-graph.herokuapp.com/graph?username=mayurprajapati&bg_color=ffffff" alt="Activity" width="100%"/>
+  </div>
 </p>
 
 
