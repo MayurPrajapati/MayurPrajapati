@@ -26,45 +26,33 @@
 <br>
 
 <hr>
-<h2 align="left" id="tech">Tools and Technologies he likes to work with</h2>
+<h2 align="left">Tools and Technologies he likes to work with</h2>
 
 **Programming Languages**
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#tech">
         <img src="./blob/images/java-original.svg" width="48" height="48" alt="C#" />
-      </a>
       <br>Java (Core)
     </td>
     <td align="center" width="96">
-      <a href="#tech">
         <img src="./blob/images/python.svg" width="48" height="48" alt="Python" />
-      </a>
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#tech">
         <img src="./blob/images/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <a href="#tech">
         <img src="./blob/images/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="#tech" >
         <img src="./blob/images/kotlin.png" width="48" height="48" alt="Kotlin" />
-      </a>
       <br>Kotlin
     </td>
     <td align="center" width="96">
-        <a href="#tech">
           <img src="./blob/images/dart.svg" width="48" height="48" alt="Dart" />
-        </a>
       <br>Dart
     </td>
   </tr>
@@ -74,39 +62,27 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#tech">
         <img src="./blob/images/selenium.svg" width="48" height="48" alt="Selenium Webdriver" />
-      </a>
       <br>Selenium Webdriver
     </td>
     <td align="center" width="96">
-      <a href="#tech" >
         <img src="./blob/images/vuejs.png" width="48" height="48" alt="VueJS" />
-      </a>
       <br>VueJS
     </td>
     <td align="center" width="96">
-      <a href="#tech">
         <img src="./blob/images/flutter.svg" width="48" height="48" alt="Flutter" />
-      </a>
       <br>Flutter
     </td>
     <td align="center" width="96"> 
-      <a href="#tech" >
         <img src="./blob/images/apache.png" width="48" height="48" alt="Apache Commons" />
-      </a>
       <br>Apache Commons
     </td>
     <td align="center" width="96">
-      <a href="#tech" >
         <img src="./blob/images/android.svg" width="48" height="48" alt="Android" />
-      </a>
       <br>Android
     </td>
     <td align="center" width="96">
-      <a href="#tech" >
         <img src="./blob/images/nodejs.svg" width="48" height="48" alt="NodeJS" />
-      </a>
       <br>NodeJS
     </td>
   </tr>
@@ -116,9 +92,7 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#tech">
         <img src="./blob/images/aws.svg" width="48" height="48" alt="AWS" />
-      </a>
       <br>AWS
     </td>
   </tr>
@@ -128,9 +102,7 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#tech">
-        <img src="./blob/images/mongodb.svg" width="48" height="48" alt="MongoDB" />
-      </a>
+      <img src="./blob/images/mongodb.svg" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
     </td>
   </tr>
@@ -140,57 +112,39 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#tech">
         <img src="./blob/images/ubuntu.svg" width="48" height="48" alt="Ubuntu" />
-      </a>
       <br>Ubuntu
     </td>
     <td align="center" width="96">
-      <a href="#tech">
         <img src="./blob/images/jenkins.svg" width="48" height="48" alt="Jenkins" />
-      </a>
       <br>Jenkins
     </td>
     <td align="center" width="96">
-      <a href="#tech" >
         <img src="./blob/images/git.png" width="48" height="48" alt="Git SCM" />
-      </a>
       <br>Git SCM
     </td>
     <td align="center" width="96">
-      <a href="#tech" >
         <img src="./blob/images/gitlab.png" width="48" height="48" alt="GitLab" />
-      </a>
       <br>GitLab
     </td>
     <td align="center" width="96">
-      <a href="#tech" >
         <img src="./blob/images/eclipse.svg" width="48" height="48" alt="Eclipse IDE" />
-      </a>
       <br>Eclipse IDE
     </td>
     <td align="center" width="96">
-      <a href="#tech" >
         <img src="./blob/images/vscode.png" width="48" height="48" alt="VS Code" />
-      </a>
       <br>VS Code
     </td>
     <td align="center" width="96">
-      <a href="#tech" >
         <img src="./blob/images/gradle.svg" width="48" height="48" alt="Gradle" />
-      </a>
       <br>Gradle
     </td>
     <td align="center" width="96">
-        <a href="#tech" >
           <img src="./blob/images/maven.svg" width="48" height="20" alt="Maven" />
-        </a>
         <br>Maven
       </td>
       <td align="center" width="96">
-        <a href="#tech">
           <img src="./blob/images/nginx.svg" width="48" height="48" alt="Nginx" />
-        </a>
       <br>Nginx
     </td>
     </tr>
