@@ -198,18 +198,23 @@
 
 <hr>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center" id="stats">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
+  <a href="#stats">
     <img align="left" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurprajapati&hide=Objective-C,Objective-C%2b%2b&layout=compact" alt="Most used languages" />
+    </a>
+      <a href="#stats">
       <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=mayurprajapati" alt="Contributions"/>
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <br>
    <div align=center>
+   <a href="#stats">
   <img src="https://activity-graph.herokuapp.com/graph?username=mayurprajapati&bg_color=ffffff" alt="Activity" width="100%"/>
+  </a>
   </div>
 </p>
 
