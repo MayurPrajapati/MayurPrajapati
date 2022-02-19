@@ -26,7 +26,7 @@
 <br>
 
 <hr>
-<h2 align="left" id="tech">Favorite Tech</h2>
+<h2 align="left" id="tech">Tools and Technologies he likes to work with</h2>
 
 **Programming Languages**
 <table>
@@ -139,6 +139,12 @@
 **Tools**
 <table>
   <tr>
+    <td align="center" width="96">
+      <a href="#tech">
+        <img src="./blob/images/ubuntu.svg" width="48" height="48" alt="Ubuntu" />
+      </a>
+      <br>Ubuntu
+    </td>
     <td align="center" width="96">
       <a href="#tech">
         <img src="./blob/images/jenkins.svg" width="48" height="48" alt="Jenkins" />
