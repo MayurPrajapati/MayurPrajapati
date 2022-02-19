@@ -28,32 +28,20 @@
 <hr>
 <h2 align="left" id="tech">Favorite Tech</h2>
 
-> Tools, languages, and other things that he likes to work with.
+**Programming Languages**
 <table>
   <tr>
     <td align="center" width="96">
       <a href="#tech">
         <img src="./blob/images/java-original.svg" width="48" height="48" alt="C#" />
       </a>
-      <br>Java&nbsp;(Core)
-    </td>
-    <td align="center" width="96">
-      <a href="#tech">
-        <img src="./blob/images/selenium.svg" width="48" height="48" alt="Selenium Webdriver" />
-      </a>
-      <br>Selenium Webdriver
+      <br>Java (Core)
     </td>
     <td align="center" width="96">
       <a href="#tech">
         <img src="./blob/images/python.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#tech">
-        <img src="./blob/images/jenkins.svg" width="48" height="48" alt="Jenkins" />
-      </a>
-      <br>Jenkins
     </td>
     <td align="center" width="96">
       <a href="#tech">
@@ -69,6 +57,30 @@
     </td>
     <td align="center" width="96">
       <a href="#tech" >
+        <img src="./blob/images/kotlin.png" width="48" height="48" alt="Kotlin" />
+      </a>
+      <br>Kotlin
+    </td>
+    <td align="center" width="96">
+        <a href="#tech">
+          <img src="./blob/images/dart.svg" width="48" height="48" alt="Dart" />
+        </a>
+      <br>Dart
+    </td>
+  </tr>
+</table>
+
+**Libraries and Frameworks**
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#tech">
+        <img src="./blob/images/selenium.svg" width="48" height="48" alt="Selenium Webdriver" />
+      </a>
+      <br>Selenium Webdriver
+    </td>
+    <td align="center" width="96">
+      <a href="#tech" >
         <img src="./blob/images/vuejs.png" width="48" height="48" alt="VueJS" />
       </a>
       <br>VueJS
@@ -79,14 +91,6 @@
       </a>
       <br>Flutter
     </td>
-    <td align="center" width="96">
-      <a href="#tech">
-        <img src="./blob/images/mongodb.svg" width="48" height="48" alt="MongoDB" />
-      </a>
-      <br>MongoDB
-    </td>
-  </tr>
-  <tr>
     <td align="center" width="96"> 
       <a href="#tech" >
         <img src="./blob/images/apache.png" width="48" height="48" alt="Apache Commons" />
@@ -95,9 +99,51 @@
     </td>
     <td align="center" width="96">
       <a href="#tech" >
-        <img src="./blob/images/kotlin.png" width="48" height="48" alt="Kotlin" />
+        <img src="./blob/images/android.svg" width="48" height="48" alt="Android" />
       </a>
-      <br>Kotlin
+      <br>Android
+    </td>
+    <td align="center" width="96">
+      <a href="#tech" >
+        <img src="./blob/images/nodejs.svg" width="48" height="48" alt="NodeJS" />
+      </a>
+      <br>NodeJS
+    </td>
+  </tr>
+</table>
+
+**Cloud**
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#tech">
+        <img src="./blob/images/aws.svg" width="48" height="48" alt="AWS" />
+      </a>
+      <br>AWS
+    </td>
+  </tr>
+</table>
+
+**Databases**
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#tech">
+        <img src="./blob/images/mongodb.svg" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+  </tr>
+</table>
+
+**Tools**
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#tech">
+        <img src="./blob/images/jenkins.svg" width="48" height="48" alt="Jenkins" />
+      </a>
+      <br>Jenkins
     </td>
     <td align="center" width="96">
       <a href="#tech" >
@@ -119,18 +165,6 @@
     </td>
     <td align="center" width="96">
       <a href="#tech" >
-        <img src="./blob/images/android.svg" width="48" height="48" alt="Android" />
-      </a>
-      <br>Android
-    </td>
-    <td align="center" width="96">
-      <a href="#tech" >
-        <img src="./blob/images/nodejs.svg" width="48" height="48" alt="NodeJS" />
-      </a>
-      <br>NodeJS
-    </td>
-    <td align="center" width="96">
-      <a href="#tech" >
         <img src="./blob/images/vscode.png" width="48" height="48" alt="VS Code" />
       </a>
       <br>VS Code
@@ -141,23 +175,28 @@
       </a>
       <br>Gradle
     </td>
-    </tr>
-    <tr height="96">
-      <td align="center" width="96">
+    <td align="center" width="96">
         <a href="#tech" >
           <img src="./blob/images/maven.svg" width="48" height="20" alt="Maven" />
         </a>
         <br>Maven
       </td>
-      </tr>
+      <td align="center" width="96">
+        <a href="#tech">
+          <img src="./blob/images/nginx.svg" width="48" height="48" alt="Nginx" />
+        </a>
+      <br>Nginx
+    </td>
+    </tr>
 </table>
+
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
-    <img align="left" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurprajapati&hide=dart,Objective-C,Objective-C%2b%2b&layout=compact" alt="Most used languages" />
+    <img align="left" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurprajapati&hide=Objective-C,Objective-C%2b%2b&layout=compact" alt="Most used languages" />
       <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=mayurprajapati" alt="Contributions"/>
     </a>
   </div>
