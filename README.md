@@ -17,6 +17,7 @@
 </p>
 
 - :office: &nbsp;He is currently working at **[Briq]** as an Automation Engineer
+- 💡&nbsp; He shone brightly as the **[spotlight of the month]** at Briq
 - :seedling: &nbsp;Adding **DSA** and **Dynamic Programming** to his skills
 - :books: &nbsp;Reading **Homo Sapiens**, **The Internet of Money**
 - :speech_balloon: &nbsp;Likes to talk about **Life**, **Product Ideas** and **New Technology**
@@ -221,3 +222,4 @@
 
 [Briq]: https://br.iq "Briq"
 [linkedin]: https://www.linkedin.com/in/mayurengineer "Mayur Prajapati LinkedIn"
+[spotlight of the month]: https://www.briq.com/blog/spotlight-mayur
