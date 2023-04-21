@@ -27,6 +27,21 @@
 <br>
 
 <hr>
+<h2 align="left" id="articles">Articles he wrote</h2>
+<a href="https://medium.com/@mayurengineer/efficiently-transfer-http-traffic-using-websockets-a-step-by-step-guide-3f2991b591f7">
+  Efficiently Transfer HTTP Traffic using WebSockets: A Step-by-Step Guide (2023)
+</a>
+<br>
+<a href="https://medium.com/flutter-community/how-to-animate-dialogs-in-flutter-here-is-answer-492ea3a7262f">
+  How to animate dialogs in Flutter (2019)
+</a>
+<br>
+<a href="https://www.instagram.com/sudocode.info/">Sudocode.info (Instagram)</a>
+<br>
+
+<br>
+
+<hr>
 <h2 align="left" id="tech">Tools and Technologies he likes to work with</h2>
 
 **Programming Languages**
