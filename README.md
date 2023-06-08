@@ -18,8 +18,8 @@
 
 - :office: &nbsp;He is currently working at **[Briq]** as an Automation Engineer
 - 💡&nbsp; He shone brightly as the **[spotlight of the month]** at Briq
-- :seedling: &nbsp;Adding **DSA** and **Dynamic Programming** to his skills
-- :books: &nbsp;Reading **Homo Sapiens**, **The Internet of Money**
+<!-- - :seedling: &nbsp;Adding **DSA** and **Dynamic Programming** to his skills -->
+<!-- - :books: &nbsp;Reading **Homo Sapiens**, **The Internet of Money** -->
 - :speech_balloon: &nbsp;Likes to talk about **Life**, **Product Ideas** and **New Technology**
 - :mailbox: &nbsp;Get in touch **[mayur@engineer.com](mailto:mayur@engineer.com)**
 - :computer: &nbsp;Or connect on **[LinkedIn]**
