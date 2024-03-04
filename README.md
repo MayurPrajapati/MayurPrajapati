@@ -1,6 +1,8 @@
 <h1 align="left" id="macropower-title">Mayur Prajapati</h1>
 <h3 align="left">Versatilist, Passionately Curious & Keen Learner, loves solving problems & building projects</h3>
 
+<h1><a href="https://github.com/mayurprajapati/mayurprajapati/blob/main/blob/Mayur%20Prajapati%20Resume%20v2.pdf" target="_blank">Resume</a><h1>
+
 <p align="left">
   <a href="https://github.com/mayurprajapati/mayurprajapati">
     <img src="https://komarev.com/ghpvc/?username=mayurprajapati" alt="page views" />
