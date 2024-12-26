@@ -22,7 +22,7 @@
 - 💡&nbsp; He shone brightly as the **[spotlight of the month]** at Briq
 <!-- - :seedling: &nbsp;Adding **DSA** and **Dynamic Programming** to his skills -->
 <!-- - :books: &nbsp;Reading **Homo Sapiens**, **The Internet of Money** -->
-- :speech_balloon: &nbsp;Likes to talk about **Life**, **Product Ideas** and **New Technology**
+<!--- :speech_balloon: &nbsp;Likes to talk about **Life**, **Product Ideas** and **New Technology** -->
 - :mailbox: &nbsp;Get in touch **[mayur@engineer.com](mailto:mayur@engineer.com)**
 - :computer: &nbsp;Or connect on **[LinkedIn]**
 
@@ -61,30 +61,30 @@
       </a>
       <br>Python
     </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
       <a href="#tech">
         <img src="./blob/images/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
-    </td>
+    </td> -->
     <td align="center" width="96">
       <a href="#tech">
         <img src="./blob/images/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
       <a href="#tech" >
         <img src="./blob/images/kotlin.png" width="48" height="48" alt="Kotlin" />
       </a>
       <br>Kotlin
-    </td>
-    <td align="center" width="96">
+    </td> -->
+    <!-- <td align="center" width="96">
         <a href="#tech">
           <img src="./blob/images/dart.svg" width="48" height="48" alt="Dart" />
         </a>
       <br>Dart
-    </td>
+    </td> -->
   </tr>
 </table>
 
@@ -97,30 +97,30 @@
       </a>
       <br>Selenium Webdriver
     </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
       <a href="#tech" >
         <img src="./blob/images/vuejs.png" width="48" height="48" alt="VueJS" />
       </a>
       <br>VueJS
-    </td>
-    <td align="center" width="96">
+    </td> -->
+    <!-- <td align="center" width="96">
       <a href="#tech">
         <img src="./blob/images/flutter.svg" width="48" height="48" alt="Flutter" />
       </a>
       <br>Flutter
-    </td>
+    </td> -->
     <td align="center" width="96"> 
       <a href="#tech" >
         <img src="./blob/images/apache.png" width="48" height="48" alt="Apache Commons" />
       </a>
       <br>Apache Commons
     </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
       <a href="#tech" >
         <img src="./blob/images/android.svg" width="48" height="48" alt="Android" />
       </a>
       <br>Android
-    </td>
+    </td> -->
     <td align="center" width="96">
       <a href="#tech" >
         <img src="./blob/images/nodejs.svg" width="48" height="48" alt="NodeJS" />
